@@ -1,4 +1,7 @@
 # List.js
+
+--Edited from the original fork.  The List() constructor now takes an additional parameter allowing you to specify a class name for the list items.
+
 Perfect library for adding **search**, **sort**, **filters** and **flexibility** to
 **tables**, **lists** and various HTML elements. Built to be invisible and work on existing HTML.
 Really simple and easy to use!
