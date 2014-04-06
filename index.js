@@ -10,8 +10,12 @@ var document = window.document,
     extend = require('extend'),
     indexOf = require('indexof');
 
-var List = function(id, options, values) {
+var List = function(id, options, values, className) {
 
+    /* To maintain backwards compatibility, we will default to list of classname is not specified*/
+    if (className === undefined){
+        className = 'list';
+    }
     var self = this,
 		init,
         Item = require('./src/item')(self),
