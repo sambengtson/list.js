@@ -6,7 +6,6 @@ Perfect library for adding **search**, **sort**, **filters** and **flexibility**
 **tables**, **lists** and various HTML elements. Built to be invisible and work on existing HTML.
 Really simple and easy to use!
 
-[![Donate](https://s3.amazonaws.com/listjs/donate-coffee.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M7ZGHV75VSD2E)
 
 ### Core idea
 - Simple and invisible
